@@ -1,0 +1,24 @@
+@use "../../foundation/variables" as v;
+
+.p-hbtn{
+    height: 30px;
+    width:30px;
+
+    span{
+        position:absolute;
+        width:30px;
+        height: 2px;
+        background-color: v.$color-black;
+        display: inline-block;
+        margin:10px 0;
+    }
+    span:nth-of-type(1){
+        top:22px;
+        right:0;
+    }
+    span:nth-of-type(2){
+        top:29px;
+        right:0;
+    }
+
+}

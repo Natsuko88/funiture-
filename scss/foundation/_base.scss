@@ -1,0 +1,27 @@
+html{
+    font-size:62.5%;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+
+body{
+    max-width: 1360px;
+    padding:40px;
+    font-family: "Hiragino Kaku Gothic ProN";
+    overflow-x: hidden;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.wrapper{
+    max-width: 1280px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}

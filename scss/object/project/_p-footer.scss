@@ -1,0 +1,13 @@
+.p-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .p-fnav{
+        display: flex;
+
+        .c-fnav--title{
+            padding-right: 34px;
+        }
+    }
+}

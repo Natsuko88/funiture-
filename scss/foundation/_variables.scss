@@ -1,0 +1,12 @@
+//color
+$color-black:#333333;
+$color-white:#ffffff;
+
+//breakpoint
+$pc:900px;
+
+@mixin pc{
+    @media screen and(min-width:($pc)){
+        @content;
+    }
+}

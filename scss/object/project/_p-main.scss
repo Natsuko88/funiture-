@@ -1,0 +1,24 @@
+.p-main{
+    margin-bottom:6%;
+    .p-glid{
+        display: grid;
+        gap:34px;
+        grid-template-columns: repeat(4,minmax(160px,1fr));
+        margin-bottom:6%;
+
+        .p-card{
+            .c-card--img{
+                img{
+                    max-width: 294.5px;
+                    max-height: 294.5px;
+                }
+            }
+        }
+    }
+    .c-button{
+        margin:0 auto;
+        display: block;
+        font-size: 14px;
+    }
+
+}
