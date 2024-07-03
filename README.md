@@ -1,1 +1,2 @@
-Codejump（https://code-jump.com/）　中級編のデザインカンプからのコーディングです。
+Codejump：https://code-jump.com/
+中級編のデザインカンプからのコーディングです。
